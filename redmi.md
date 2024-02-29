@@ -3,41 +3,40 @@
 
 ### Controllare fondi
     - SE siamo da PC
-        - Accendiamo pc
+        - Accendere PC
         - Aprire browser
-        - Accedere al sito della banca
-    - ALTRIMENTI se siamo da mobile
-        - Sbloccare telefono
-        - SE abbiamo l'app della banca
-            - Aprire l'app della banca
-        - ALTRIMENTI se non abbiamo l'app della banca
-            - Accedere al browser
-            - Accedere al sito della banca
+        - Accedere a banca online
+    - ALTRIMENTI se siamo da Mobile
+        - Sbloccare schermo
+        - SE abbiamo app banca online
+            - Accedere a banca da app
+        - ALTRIMENTI apriamo browser
+            - Accedere a sito banca online
     - Controllare disponibilità fondi
-        - SE ci sono i fondi
-            - Stabilire budget
-            - Accedere ad Amazon 
-        - ALTRIMENTI
+        - SE ci sono fondi
             - Decidere budget
-            - Aggiungere i fondi alla carta
-            - Accedere ad Amazon
+         - ALTRIMENTI
+            - decidere budget
+            - andare a versare in banca
+
 ### Accedere ad Amazon
     - SE siamo da PC
-        - Accedere al sito di Amazon
-    - ALTRIMENTI se siamo da mobile
+        - Andiamo sul sito Amazon
+    - ALTRIMENTI se siamo da Mobile
         - SE abbiamo app Amazon
-            - Accedere all'app
+            - Apriamo app Amazon
         - ALTRIMENTI
-            - Accediamo tramite browser 
+            - Accediamo ad Amazon da browser
+
 ### Cercare regalo
-    - Cercare un prodotto
-        - Controllare requisiti
-            - SE disponibile consegna per domani 
-            - AND Budget non superato 
-                - Metti nel carrello 
-                - Termina ricerca
-            - ALTRIMENTI
-                - Cerca un altro prodotto
+    - Controllare requisiti
+        - SE disponibile consegna per domani 
+        - AND Budget non superato 
+             - Metti nel carrello
+             - Termina ricerca
+        - ALTRIMENTI
+            - Cerca un altro regalo
+
 ### Completare l'acquisto
     - Accedere al carrello
     - Aggiungere indirizzo
