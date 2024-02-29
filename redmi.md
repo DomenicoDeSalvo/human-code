@@ -16,7 +16,7 @@
     - Controllare disponibilità fondi
         - SE ci sono i fondi
             - Stabilire budget
-            - Accedere ad Amazon
+            - Accedere ad Amazon 
         - ALTRIMENTI
             - Decidere budget
             - Aggiungere i fondi alla carta
